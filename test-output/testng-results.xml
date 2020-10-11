@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40046" started-at="2020-10-11T08:02:34 IST" finished-at="2020-10-11T08:03:14 IST">
+  <suite name="Suite" duration-ms="103665" started-at="2020-10-11T11:14:41 IST" finished-at="2020-10-11T11:16:25 IST">
     <groups>
       <group name="regression">
         <method signature="Ex_4.Login()[pri:3, instance:Ex_4@7d0587f1]" name="Login" class="Ex_4"/>
@@ -11,31 +11,31 @@
         <method signature="Ex_5.Login()[pri:0, instance:Ex_5@5d76b067]" name="Login" class="Ex_5"/>
       </group> <!-- sanity -->
     </groups>
-    <test name="Test" duration-ms="40046" started-at="2020-10-11T08:02:34 IST" finished-at="2020-10-11T08:03:14 IST">
+    <test name="Test" duration-ms="103665" started-at="2020-10-11T11:14:41 IST" finished-at="2020-10-11T11:16:25 IST">
       <class name="Ex_5">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:Ex_5@5d76b067]" name="Setup" is-config="true" duration-ms="8331" started-at="2020-10-11T08:03:05 IST" finished-at="2020-10-11T08:03:13 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Ex_5@5d76b067]" name="Setup" is-config="true" duration-ms="13127" started-at="2020-10-11T11:15:35 IST" finished-at="2020-10-11T11:15:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Login()[pri:0, instance:Ex_5@5d76b067]" name="Login" duration-ms="44" started-at="2020-10-11T08:03:13 IST" finished-at="2020-10-11T08:03:13 IST">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Ex_5@5d76b067]" name="Login" duration-ms="112" started-at="2020-10-11T11:15:48 IST" finished-at="2020-10-11T11:15:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:Ex_5@5d76b067]" name="TearDown" is-config="true" duration-ms="781" started-at="2020-10-11T08:03:13 IST" finished-at="2020-10-11T08:03:14 IST">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Ex_5@5d76b067]" name="TearDown" is-config="true" duration-ms="37344" started-at="2020-10-11T11:15:48 IST" finished-at="2020-10-11T11:16:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- Ex_5 -->
       <class name="Ex_4">
-        <test-method status="PASS" signature="Setup()[pri:1, instance:Ex_4@7d0587f1]" name="Setup" duration-ms="24059" started-at="2020-10-11T08:02:34 IST" finished-at="2020-10-11T08:02:58 IST">
+        <test-method status="PASS" signature="Setup()[pri:1, instance:Ex_4@7d0587f1]" name="Setup" duration-ms="30753" started-at="2020-10-11T11:14:42 IST" finished-at="2020-10-11T11:15:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Login()[pri:3, instance:Ex_4@7d0587f1]" name="Login" duration-ms="6031" started-at="2020-10-11T08:02:58 IST" finished-at="2020-10-11T08:03:04 IST">
+        <test-method status="PASS" signature="Login()[pri:3, instance:Ex_4@7d0587f1]" name="Login" duration-ms="4350" started-at="2020-10-11T11:15:12 IST" finished-at="2020-10-11T11:15:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="TearDown()[pri:3, instance:Ex_4@7d0587f1]" name="TearDown" duration-ms="720" started-at="2020-10-11T08:03:04 IST" finished-at="2020-10-11T08:03:05 IST">
+        <test-method status="PASS" signature="TearDown()[pri:3, instance:Ex_4@7d0587f1]" name="TearDown" duration-ms="17859" started-at="2020-10-11T11:15:17 IST" finished-at="2020-10-11T11:15:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
